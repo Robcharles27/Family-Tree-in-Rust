@@ -1,6 +1,5 @@
 use std::io;
 
-//Comp 524 Assignment 5
 //Array/Vector Impl of Family Tree
 
 
